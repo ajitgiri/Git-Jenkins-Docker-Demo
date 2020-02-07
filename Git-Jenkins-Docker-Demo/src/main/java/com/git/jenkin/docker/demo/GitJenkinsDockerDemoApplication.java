@@ -8,7 +8,7 @@ public class GitJenkinsDockerDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitJenkinsDockerDemoApplication.class, args);
-		System.out.println("STARTED SUCCESSFULLY ------------ >>");
+		System.out.println("STARTED SUCCESSFULLY ------------!! >>");
 	}
 
 }
